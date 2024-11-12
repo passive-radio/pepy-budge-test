@@ -6,5 +6,5 @@
 .. image:: https://img.shields.io/badge/code%20style-black-000000.svg
     :target: https://github.com/passive-radio/pigframe
 
-.. image:: https://pepy.tech/badge/pydocstyle
-    :target: https://pepy.tech/project/pydocstyle
+.. image:: https://pepy.tech/badge/pigframe
+    :target: https://pepy.tech/project/pigframe
